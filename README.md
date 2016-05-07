@@ -2,7 +2,7 @@
 
 [MacDown](http://macdown.uranusjr.com/) theme inspired by [amCoder's Monokai variant](https://github.com/auiWorks/amCoder).
 
-[[https://github.com/EVA-01/monokai-macdown/blob/master/monokai.png|alt=Monokai]]
+![Screenshot of Monokai for MacDown theme](https://raw.githubusercontent.com/EVA-01/monokai-macdown/master/monokai.png)
 
 ## Quick install
 
