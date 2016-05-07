@@ -18,19 +18,19 @@ cp monokai-macdown/*.style ~/Library/Application\ Support/MacDown/Themes/
 #### Both Monokai+ and Monokai
 
 ```bash
-curl -o ~/Library/Application\ Support/MacDown/Themes/"#1.style" https://github.com/EVA-01/monokai-macdown/blob/master/{Monokai+,Monokai}.style
+curl -o ~/Library/Application\ Support/MacDown/Themes/"#1.style" https://raw.githubusercontent.com/EVA-01/monokai-macdown/master/{Monokai+,Monokai}.style
 ```
 
 #### Monokai+ only
 
 ```bash
-curl -o ~/Library/Application\ Support/MacDown/Themes/Monokai+.style https://github.com/EVA-01/monokai-macdown/blob/master/Monokai%2B.style
+curl -o ~/Library/Application\ Support/MacDown/Themes/Monokai+.style https://raw.githubusercontent.com/EVA-01/monokai-macdown/master/Monokai%2B.style
 ```
 
 #### Monokai only
 
 ```bash
-curl -o ~/Library/Application\ Support/MacDown/Themes/Monokai.style https://github.com/EVA-01/monokai-macdown/blob/master/Monokai.style
+curl -o ~/Library/Application\ Support/MacDown/Themes/Monokai.style https://raw.githubusercontent.com/EVA-01/monokai-macdown/master/Monokai.style
 ```
 
 ## License
