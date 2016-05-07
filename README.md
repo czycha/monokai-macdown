@@ -6,11 +6,32 @@
 
 ## Quick install
 
+### Using git
+
 ```bash
-git clone https://github.com/EVA-01/monokai-macdown.git "~/Library/Application Support/MacDown/Themes"
+git clone https://github.com/EVA-01/monokai-macdown.git
+cp monokai-macdown/*.style ~/Library/Application\ Support/MacDown/Themes/
 ```
 
-**Note:** This will replace files with coincidental names. If you don't want this, clone the repository somewhere else and copy the **Monokai+.style** and **Monokai.style** files to **~/Library/Application Support/MacDown/Themes**.
+### Using curl
+
+#### Both Monokai+ and Monokai
+
+```bash
+curl -o ~/Library/Application\ Support/MacDown/Themes/"#1.style" https://github.com/EVA-01/monokai-macdown/blob/master/{Monokai+,Monokai}.style
+```
+
+#### Monokai+ only
+
+```bash
+curl -o ~/Library/Application\ Support/MacDown/Themes/Monokai+.style https://github.com/EVA-01/monokai-macdown/blob/master/Monokai%2B.style
+```
+
+#### Monokai only
+
+```bash
+curl -o ~/Library/Application\ Support/MacDown/Themes/Monokai.style https://github.com/EVA-01/monokai-macdown/blob/master/Monokai.style
+```
 
 ## License
 
