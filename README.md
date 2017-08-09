@@ -2,14 +2,14 @@
 
 [MacDown](http://macdown.uranusjr.com/) theme inspired by [amCoder's Monokai variant](https://github.com/auiWorks/amCoder).
 
-![Screenshot of Monokai for MacDown theme](https://raw.githubusercontent.com/EVA-01/monokai-macdown/master/monokai.png)
+![Screenshot of Monokai for MacDown theme](https://raw.githubusercontent.com/czycha/monokai-macdown/master/monokai.png)
 
 ## Quick install
 
 ### Using git
 
 ```bash
-git clone https://github.com/EVA-01/monokai-macdown.git
+git clone https://github.com/czycha/monokai-macdown.git
 cp monokai-macdown/*.style ~/Library/Application\ Support/MacDown/Themes/
 ```
 
@@ -18,19 +18,19 @@ cp monokai-macdown/*.style ~/Library/Application\ Support/MacDown/Themes/
 #### Both Monokai+ and Monokai
 
 ```bash
-curl -o ~/Library/Application\ Support/MacDown/Themes/"#1.style" https://raw.githubusercontent.com/EVA-01/monokai-macdown/master/{Monokai+,Monokai}.style
+curl -o ~/Library/Application\ Support/MacDown/Themes/"#1.style" https://raw.githubusercontent.com/czycha/monokai-macdown/master/{Monokai+,Monokai}.style
 ```
 
 #### Monokai+ only
 
 ```bash
-curl -o ~/Library/Application\ Support/MacDown/Themes/Monokai+.style https://raw.githubusercontent.com/EVA-01/monokai-macdown/master/Monokai%2B.style
+curl -o ~/Library/Application\ Support/MacDown/Themes/Monokai+.style https://raw.githubusercontent.com/czycha/monokai-macdown/master/Monokai%2B.style
 ```
 
 #### Monokai only
 
 ```bash
-curl -o ~/Library/Application\ Support/MacDown/Themes/Monokai.style https://raw.githubusercontent.com/EVA-01/monokai-macdown/master/Monokai.style
+curl -o ~/Library/Application\ Support/MacDown/Themes/Monokai.style https://raw.githubusercontent.com/czycha/monokai-macdown/master/Monokai.style
 ```
 
 ## License
